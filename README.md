@@ -1,2 +1,2 @@
 # fabulous-winner
-@paraigm.org python bootcamp
+@paradigm.org python bootcamp
